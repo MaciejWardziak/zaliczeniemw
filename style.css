@@ -1,5 +1,7 @@
 .topbar{
-  font-size: 20px;
+  font-size: 3vw;
+  border: silver solid 1px;
+  border-radius: 20%;
   padding: 1%;
   float: left;
 }
